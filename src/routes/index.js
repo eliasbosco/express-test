@@ -1,4 +1,4 @@
-const UserRoute = require('./User');
+const UserRoute = require('./user');
 const apiVer = '/api/v1';
 
 module.exports = (app) => {
